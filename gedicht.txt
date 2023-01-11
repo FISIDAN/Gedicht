@@ -5,5 +5,7 @@ Rot
 Grün
 Blau
 Gelb
+Hellgelb
+Dunkelgelb
 Magenta
 Sind alles tolle Farben.
